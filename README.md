@@ -15,7 +15,6 @@ Uma aplicação Python com interface gráfica para realizar cálculos financeiro
 
 ## Como Executar
 
-### Localmente
 1. Baixe o arquivo `main.py`
 2. Abra o terminal ou prompt de comando
 3. Navegue até a pasta onde o arquivo foi salvo
