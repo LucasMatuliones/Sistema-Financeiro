@@ -15,12 +15,6 @@ Uma aplicação Python com interface gráfica para realizar cálculos financeiro
 
 ## Como Executar
 
-### No Replit
-1. Clique no botão "Run" para iniciar a aplicação
-2. Selecione a aba desejada (Juros Compostos, Investimentos ou Empréstimos)
-3. Preencha os campos solicitados com valores numéricos
-4. Clique em "Calcular" para ver os resultados
-
 ### Localmente
 1. Baixe o arquivo `main.py`
 2. Abra o terminal ou prompt de comando
